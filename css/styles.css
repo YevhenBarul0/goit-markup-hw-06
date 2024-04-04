@@ -531,10 +531,6 @@ advantages
 
   .advantages-icon-container {
     display: flex;
-  }
-
-  .advantages-icon-container {
-    display: flex;
     align-items: center;
     justify-content: center;
     height: 112px;
